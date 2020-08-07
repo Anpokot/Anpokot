@@ -6,20 +6,13 @@
 - 🥅 Goals: To find a company where I can express myself as an electronics creator
 - ⚡ I also love Cinematography, science fiction, and video games
 
-### My Projects:
-
-[<img align="left" alt="Anpokot | My28Pins" width="550px" src="https://github.com/Anpokot/My28Pins/raw/master/My28Pins3D.PNG" />][My28Pins] <br />
-[<img align="left" alt="Anpokot | USBStick" width="550px" src="https://github.com/Anpokot/USB-Wi-Fi-Radio/raw/master/board.png" />][usbstick] <br />
-[<img align="left" alt="Anpokot | Glitter" width="550px" src="https://github.com/Anpokot/RGB_Glitter_Lamp/raw/master/logo.PNG" />][Glitter] 
-
-<br />
-
 ### Connect with me:
 
 [<img align="left" alt="Anpokot | e-mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/mail-dot-ru.svg" />][email]
 [<img align="left" alt="Anpokot | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Anpokot | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/facebook.svg" />][facebook]
 
+<br />
 <br />
 
 ### Languages and Tools:
@@ -33,7 +26,6 @@
 [<img align="left" alt="FEKO" width="26px" src="https://img.informer.com/icons/png/128/3499/3499617.png" />]
 [<img align="left" alt="FreeCAD" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/FreeCAD-logo.svg/1024px-FreeCAD-logo.svg.png" />]
 [<img align="left" alt="FreeCAD" width="26px" src="https://i0.pngocean.com/files/378/830/339/mathcad-logo-computer-software-computer-program-computer-icons-thanks-for-watching-thumb.jpg" />]
-
 
 <br />
 <br />
