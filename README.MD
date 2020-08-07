@@ -8,14 +8,15 @@
 
 ### My Projects:
 
-[<img align="left" alt="Anpokot | My28Pins" height="200px" src="https://github.com/Anpokot/My28Pins/raw/master/My28Pins3D.PNG" />][My28Pins]
-[<img align="left" alt="Anpokot | USBStick" height="200px" src="https://github.com/Anpokot/USB-Wi-Fi-Radio/raw/master/board.png" />][usbstick]
-[<img align="left" alt="Anpokot | Glitter" height="200px" src="https://github.com/Anpokot/RGB_Glitter_Lamp/raw/master/logo.PNG" />][Glitter] 
+[<img  height="100px" src="https://github.com/Anpokot/My28Pins/raw/master/My28Pins3D.PNG" />][My28Pins]
+[<img  height="100px" src="https://github.com/Anpokot/USB-Wi-Fi-Radio/raw/master/board.png" />][usbstick]
+[<img  height="100px" src="https://github.com/Anpokot/RGB_Glitter_Lamp/raw/master/logo.PNG" />][Glitter] 
 
 <br /> <br />
 <br /> <br />
 <br /> <br />
 <br /> <br />
+
 
 
 ### Connect with me:
