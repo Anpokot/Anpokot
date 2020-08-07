@@ -12,7 +12,7 @@
 [<img  height="200px" src="https://github.com/Anpokot/USB-Wi-Fi-Radio/raw/master/board.png" />][usbstick]
 [<img  height="200px" src="https://github.com/Anpokot/RGB_Glitter_Lamp/raw/master/logo.PNG" />][Glitter] 
 
-<br /> <br />
+<br />
 
 ### Connect with me:
 
