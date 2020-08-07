@@ -13,7 +13,6 @@
 [<img  height="200px" src="https://github.com/Anpokot/RGB_Glitter_Lamp/raw/master/logo.PNG" />][Glitter] 
 
 <br /> <br />
-<br /> <br />
 
 ### Connect with me:
 
