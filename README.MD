@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on a [Radio Stick][usbstick]!
 - 🌱 Every day lerning something new 🤣
 - 🥅 Goals: To find a company where I can express myself as an electronics creator
-- ⚡ I also love Cinematography, science fiction, and video games
+- ⚡ I also love Cinematography, Science Fiction, and Video Games
 
 ### My Projects:
 
